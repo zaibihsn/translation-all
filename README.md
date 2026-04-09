@@ -5,6 +5,10 @@
 
 A comprehensive collection of 290+ Quran translations in multiple languages, packaged as ZIP files for easy distribution and consumption.
 
+## 📖 Developer Guide
+Are you building an app using this data?  
+👉 **[Read the Full IMPLEMENTATION.md Guide](IMPLEMENTATION.md)** for detailed instructions on data structure, schema details, tech stack examples (JavaScript, Flutter, Python), and AI prompts to generate boilerplate code.
+
 ## 🚀 CDN Usage
 
 You can use these translations directly via CDN without cloning the repository.
